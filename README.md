@@ -27,9 +27,6 @@ Aqui estão algumas das tecnologias que tenho trabalhado:
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </a>
 
 ### 📬 Entre em Contato
 
