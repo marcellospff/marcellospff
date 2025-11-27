@@ -8,7 +8,7 @@ Estou me dedicando a aprimorar minhas habilidades nas seguintes áreas e tecnolo
 
 * **Python e SQL** 
 * **Machine Learning e Modelagem Estatística** 
-* **Git/GitHub **
+* **Git/GitHub**
 
 ### 🛠️ Tecnologias e Ferramentas
 
