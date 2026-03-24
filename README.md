@@ -1,70 +1,68 @@
-## Olá!! Me chamo Marcello Siqueira 👋
+<div align="center">
 
-Sou estudante de **Ciência de Dados Para Negócios** na UFPB (Universidade Federal da Paraíba), atualmente no 3º período.
+# Olá, eu sou o Marcello Siqueira 👋
 
-### 👨‍💻 Foco Atual
+### Cientista de Dados em formação | Estagiário na Energisa | UFPB
 
-Estou me dedicando a aprimorar minhas habilidades nas seguintes áreas e tecnologias:
-
-* **Python e SQL** 
-* **Machine Learning e Modelagem Estatística** 
-* **Git/GitHub**
-
-### 🛠️ Tecnologias e Ferramentas
-
-Aqui estão algumas das tecnologias que tenho trabalhado:
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  </a>
-
-### 📬 Entre em Contato
-
-Vamos nos conectar!
-
-<p>
-  <a href="[www.linkedin.com/in/marcello-spff]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:[marcellosiqueira0704@gmail.com]">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+</div>
 
 ---
-  <details>
-  <summary>🇬🇧 Click here for the English version</summary>
 
-## Hello! I'm Marcello Siqueira 👋
+## Sobre mim
 
-I'm a **Business Data Science** student at UFPB (Federal University of Paraíba), currently in my 3rd semester.
+Tenho 19 anos, sou de João Pessoa e estudo Ciência de Dados para Negócios na UFPB — atualmente no 3º período. Ainda to no começo, mas já venho colocando a mão na massa.
 
-  ### 👨‍💻 Current Focus
-  I'm dedicated to improving my skills in the following areas and technologies:
+Faço estágio na **Energisa**, onde trabalho com análise de dados no dia a dia: Excel, Power BI e Power Apps são as ferramentas que mais uso por lá. Na faculdade, o foco é **Python**, **SQL** e as bibliotecas de Machine Learning — Pandas, Scikit-learn, esse universo.
 
-  * **Python and SQL**
-  * **Machine Learning and Statistical Modeling**
-  * **Git/GitHub**
+Fora isso, gosto de futebol e de entender os números por trás do esporte. Alguns dos projetos aqui nasceram dessa curiosidade.
 
-  ### 🛠️ Technologies and Tools
-  Here are some of the technologies I've been working with:
-  *(See badges above)*
-  </details>
+---
 
-  ### 📬 Get in Touch
-  Let's connect!
-  *(See badges above)*
-</details>
+## 🛠️ Tecnologias e Ferramentas
 
+**Análise e visualização**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 
+**Machine Learning e Dados**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+**Ambiente e versionamento**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🎓 Formação e Experiência
+
+| | |
+|---|---|
+| 🏛️ **Ciência de Dados para Negócios** | UFPB — 3º período (em andamento) |
+| ⚡ **Estagiário de Análise de Dados** | Energisa — Excel, Power BI, Power Apps |
+
+---
+
+## 📌 Projetos em destaque
+
+> Em construção — novos projetos sendo adicionados em breve.
+
+---
+
+## 📬 Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcello-spff/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcellosiqueira0704@gmail.com)
+
+</div>
