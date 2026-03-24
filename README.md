@@ -1,9 +1,8 @@
 <div align="center">
 
 # Olá, eu sou o Marcello Siqueira 👋
-# Hi, I'm Marcello Siqueira 👋
 
-🇧🇷 Português &nbsp;|&nbsp; 🇺🇸 [English below](#english-version)
+[![PT](https://img.shields.io/badge/PT-Português-009C3B?style=flat-square)](README.md) &nbsp;|&nbsp; [![EN](https://img.shields.io/badge/EN-English%20below-012169?style=flat-square)](#english-version)
 
 ### Cientista de Dados em formação | Estagiário na Energisa | UFPB
 
