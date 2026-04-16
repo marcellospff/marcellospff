@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Marcello Siqueira 👋
+# Olá, eu sou Marcello Siqueira 👋
 
 [![PT](https://img.shields.io/badge/PT-Português-009C3B?style=flat-square)](README.md) &nbsp;|&nbsp; [![EN](https://img.shields.io/badge/EN-English%20below-012169?style=flat-square)](#english-version)
 
