@@ -56,7 +56,10 @@ Fora isso, me interesso e gosto bastante de futebol e de entender os números po
 
 ## 📌 Projetos em destaque
 
-> Em construção — novos projetos sendo adicionados em breve.
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [🏟️ Home Advantage na Premier League](https://github.com/marcellospff/Projeto_PL_HomeAdvantage) | Análise exploratória do fator campo em 10 temporadas (2015–2025), usando a pandemia como experimento natural | Python, Pandas, Plotly |
+| [💡 EcoAgente — Hackathon Careers in Data](https://github.com/marcellospff/hackathoncid) | MVP desenvolvido em hackathon: detecção de anomalias e previsão de consumo de energia com IA generativa | Python, Streamlit, Gemini API |
 
 ---
 
@@ -119,7 +122,10 @@ Outside of that, I'm really into football and enjoy exploring the numbers behind
 
 ## 📌 Featured projects
 
-> Under construction — new projects being added soon.
+| Project | Description | Tech |
+|---|---|---|
+| [🏟️ Home Advantage in the Premier League](https://github.com/marcellospff/Projeto_PL_HomeAdvantage) | Exploratory analysis of home field advantage across 10 seasons (2015–2025), using the pandemic as a natural experiment | Python, Pandas, Plotly |
+| [💡 EcoAgente — Hackathon Careers in Data](https://github.com/marcellospff/hackathoncid) | MVP built during a hackathon: anomaly detection and energy consumption forecasting with generative AI | Python, Streamlit, Gemini API |
 
 ---
 
