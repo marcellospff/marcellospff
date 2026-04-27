@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou Marcello Siqueira 👋
+# Olá, eu sou o Marcello Siqueira 👋
 
 [![PT](https://img.shields.io/badge/PT-Português-009C3B?style=flat-square)](README.md) &nbsp;|&nbsp; [![EN](https://img.shields.io/badge/EN-English%20below-012169?style=flat-square)](#english-version)
 
@@ -58,6 +58,7 @@ Fora isso, me interesso e gosto bastante de futebol e de entender os números po
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
+| [🏥 Diabetes Risk Classifier](https://github.com/marcellospff/Diabetes-Risk-Classifier) | Classificador de risco de diabetes com Random Forest, explicabilidade via SHAP e app interativo no Streamlit Cloud | Python, Scikit-learn, SHAP, Streamlit |
 | [🏟️ Home Advantage na Premier League](https://github.com/marcellospff/Projeto_PL_HomeAdvantage) | Análise exploratória do fator campo em 10 temporadas (2015–2025), usando a pandemia como experimento natural | Python, Pandas, Plotly |
 | [💡 EcoAgente — Hackathon Careers in Data](https://github.com/marcellospff/hackathoncid) | MVP desenvolvido em hackathon: detecção de anomalias e previsão de consumo de energia com IA generativa | Python, Streamlit, Gemini API |
 
@@ -78,7 +79,7 @@ Fora isso, me interesso e gosto bastante de futebol e de entender os números po
 
 ## About me
 
-I'm 19 years old, from João Pessoa, Brazil, and I study Business Data Science at UFPB — currently in my 3rd semester.
+I'm 19 years old, from João Pessoa, Brazil, and I study Business Data Science at UFPB — currently in my 4rd semester.
 
 I'm currently an intern at **Energisa**, where I work with data analysis on a daily basis: Excel, Power BI, and Power Apps are my main tools there. At university, I focus on **Python**, **SQL**, and Machine Learning libraries — Pandas, Scikit-learn.
 
@@ -124,6 +125,7 @@ Outside of that, I'm really into football and enjoy exploring the numbers behind
 
 | Project | Description | Tech |
 |---|---|---|
+| [🏥 Diabetes Risk Classifier](https://github.com/marcellospff/Diabetes-Risk-Classifier) | Diabetes risk classifier using Random Forest, individual explainability via SHAP and live interactive app on Streamlit Cloud | Python, Scikit-learn, SHAP, Streamlit |
 | [🏟️ Home Advantage in the Premier League](https://github.com/marcellospff/Projeto_PL_HomeAdvantage) | Exploratory analysis of home field advantage across 10 seasons (2015–2025), using the pandemic as a natural experiment | Python, Pandas, Plotly |
 | [💡 EcoAgente — Hackathon Careers in Data](https://github.com/marcellospff/hackathoncid) | MVP built during a hackathon: anomaly detection and energy consumption forecasting with generative AI | Python, Streamlit, Gemini API |
 
