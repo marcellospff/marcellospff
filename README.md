@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou Marcello Siqueira 👋
+# Olá, eu sou o Marcello Siqueira 👋
 
 [![PT](https://img.shields.io/badge/PT-Português-009C3B?style=flat-square)](README.md) &nbsp;|&nbsp; [![EN](https://img.shields.io/badge/EN-English%20below-012169?style=flat-square)](#english-version)
 
@@ -35,7 +35,15 @@ Fora isso, me interesso e gosto bastante de futebol e de entender os números po
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+**Deploy e interfaces**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 **Ambiente e versionamento**
 
@@ -49,7 +57,7 @@ Fora isso, me interesso e gosto bastante de futebol e de entender os números po
 
 | | |
 |---|---|
-| 🏛️ **Ciência de Dados para Negócios** | UFPB — 3º período (em andamento) |
+| 🏛️ **Ciência de Dados para Negócios** | UFPB — 4º período (em andamento) |
 | ⚡ **Estagiário de Análise de Dados** | Energisa — Excel, Power BI, Power Apps |
 
 ---
@@ -58,6 +66,7 @@ Fora isso, me interesso e gosto bastante de futebol e de entender os números po
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
+| [⚡ EcoWatt — Previsão de Energia](https://github.com/marcellospff/Energy-Consumption-Forecast) | Previsão de consumo de energia elétrica com XGBoost e série temporal, app público no Hugging Face com calculadora de custo e dicas de economia | Python, XGBoost, Gradio, Plotly |
 | [🏥 Diabetes Risk Classifier](https://github.com/marcellospff/Diabetes-Risk-Classifier) | Classificador de risco de diabetes com Random Forest, explicabilidade via SHAP e app interativo no Streamlit Cloud | Python, Scikit-learn, SHAP, Streamlit |
 | [🏟️ Home Advantage na Premier League](https://github.com/marcellospff/Projeto_PL_HomeAdvantage) | Análise exploratória do fator campo em 10 temporadas (2015–2025), usando a pandemia como experimento natural | Python, Pandas, Plotly |
 | [💡 EcoAgente — Hackathon Careers in Data](https://github.com/marcellospff/hackathoncid) | MVP desenvolvido em hackathon: detecção de anomalias e previsão de consumo de energia com IA generativa | Python, Streamlit, Gemini API |
@@ -79,7 +88,7 @@ Fora isso, me interesso e gosto bastante de futebol e de entender os números po
 
 ## About me
 
-I'm 19 years old, from João Pessoa, Brazil, and I study Business Data Science at UFPB — currently in my 4rd semester.
+I'm 19 years old, from João Pessoa, Brazil, and I study Business Data Science at UFPB — currently in my 4th semester.
 
 I'm currently an intern at **Energisa**, where I work with data analysis on a daily basis: Excel, Power BI, and Power Apps are my main tools there. At university, I focus on **Python**, **SQL**, and Machine Learning libraries — Pandas, Scikit-learn.
 
@@ -102,7 +111,15 @@ Outside of that, I'm really into football and enjoy exploring the numbers behind
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+**Deploy and interfaces**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 **Environment and version control**
 
@@ -116,7 +133,7 @@ Outside of that, I'm really into football and enjoy exploring the numbers behind
 
 | | |
 |---|---|
-| 🏛️ **Business Data Science** | UFPB — 3rd semester (in progress) |
+| 🏛️ **Business Data Science** | UFPB — 4th semester (in progress) |
 | ⚡ **Data Analysis Intern** | Energisa — Excel, Power BI, Power Apps |
 
 ---
@@ -125,6 +142,7 @@ Outside of that, I'm really into football and enjoy exploring the numbers behind
 
 | Project | Description | Tech |
 |---|---|---|
+| [⚡ EcoWatt — Energy Forecast](https://github.com/marcellospff/Energy-Consumption-Forecast) | Hourly energy consumption forecasting with XGBoost and time series, public app on Hugging Face with cost calculator and saving tips | Python, XGBoost, Gradio, Plotly |
 | [🏥 Diabetes Risk Classifier](https://github.com/marcellospff/Diabetes-Risk-Classifier) | Diabetes risk classifier using Random Forest, individual explainability via SHAP and live interactive app on Streamlit Cloud | Python, Scikit-learn, SHAP, Streamlit |
 | [🏟️ Home Advantage in the Premier League](https://github.com/marcellospff/Projeto_PL_HomeAdvantage) | Exploratory analysis of home field advantage across 10 seasons (2015–2025), using the pandemic as a natural experiment | Python, Pandas, Plotly |
 | [💡 EcoAgente — Hackathon Careers in Data](https://github.com/marcellospff/hackathoncid) | MVP built during a hackathon: anomaly detection and energy consumption forecasting with generative AI | Python, Streamlit, Gemini API |
