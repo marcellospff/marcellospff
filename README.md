@@ -12,7 +12,7 @@
 
 ## Sobre mim
 
-Tenho 19 anos, sou de João Pessoa e estudo Ciência de Dados para Negócios na UFPB, atualmente no 4º período.
+Tenho 20 anos, sou de João Pessoa e estudo Ciência de Dados para Negócios na UFPB, atualmente no 5º período.
 
 Atualmente sou estagiário na **Energisa**, onde trabalho com análise de dados no dia a dia: Excel, Power BI e Power Apps são as ferramentas que mais uso por lá. Na faculdade, atuo com mais frequência em **Python**, **SQL** e as bibliotecas de Machine Learning — Pandas, Scikit-learn.
 
@@ -88,7 +88,7 @@ Fora isso, me interesso e gosto bastante de futebol e de entender os números po
 
 ## About me
 
-I'm 19 years old, from João Pessoa, Brazil, and I study Business Data Science at UFPB — currently in my 4th semester.
+I'm 20 years old, from João Pessoa, Brazil, and I study Business Data Science at UFPB — currently in my 5th semester.
 
 I'm currently an intern at **Energisa**, where I work with data analysis on a daily basis: Excel, Power BI, and Power Apps are my main tools there. At university, I focus on **Python**, **SQL**, and Machine Learning libraries — Pandas, Scikit-learn.
 
